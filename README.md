@@ -1,1 +1,4 @@
-# 3d-print-eurorack
+# Eurorack 
+#   |- Case
+#   |- Caseholder
+#   |- Panel
