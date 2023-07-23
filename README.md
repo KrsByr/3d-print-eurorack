@@ -1,10 +1,4 @@
 # Eurorack 3D Printing Project 
-
-**Table of Contents**
-
-[TOC]
-
-
 ------------
 
 ### Eurorack Case
